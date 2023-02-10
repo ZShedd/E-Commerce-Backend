@@ -1,19 +1,19 @@
 # E-Commerce-Backend
 
-Description
+# Description
 The backend storage for an e-commerce website using sequelize models.
 
-Installation
+# Installation
 Run npm i to install dependencies.
 
-Usage
+# Usage
 Enter mysql login info into .env file.
 In the db/ directory login to the mysql enviroment and run SOURCE schema.sql.
 Run npm start to create database tables and hit ctrl + c to shutdown server.
 Run npm run seed to seed the database.
 Run npm start once nore and the server will be ready to go.
 
-Acceptance Criteria
+# Acceptance Criteria
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
