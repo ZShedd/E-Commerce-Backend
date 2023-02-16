@@ -6,7 +6,7 @@ The backend storage for an e-commerce website using sequelize models.
 # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Acceptance Criteria](#Acceptance Criteria)
+  * [Acceptance Criteria](#acceptance-criteria)
 
 # Installation
 Run npm i to install dependencies.
